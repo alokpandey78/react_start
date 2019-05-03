@@ -1,0 +1,23 @@
+Framework Vs. Library
+
+>Angular is a complete framework while React is a JavaScript Library.
+>Angular uses a two-directional data flow process where it updates the Real DOM directly while React updates only 
+the Virtual DOM and is concerned with the one-directional data flow
+>While React can be bundled with other programming libraries, Angular is a complete solution in itself
+>For uni-directional data flow, React needs to be augmented by Redux.
+
+Scalability:
+>Angular is easy to scale its design as well as a powerful CLI. React is testable and therefore scalable compared to other frameworks.
+
+Computed Properties:
+>As far as performance is concerned, plain getters in Angular are out of the scenario because they get called on each render.
+It is however possible to use BehaviorSubject from RsJS.
+React allows the use of @computed from MobX – achieving the same objective but with a nicer API
+
+Simplicity + Code length
+>React is quite easy and simple to understand but it takes quite some time to set up a project in React.
+Angular is not simple by any means. Its inherent complexity sometimes causes confusion and Angular specific 3rd party libraries and syntax.
+
+
+
+
